@@ -1,0 +1,107 @@
+.indexbody{
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    
+}
+.head{
+    color: #ffffff;
+    
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 50pt;
+    width: fit-content;
+    text-align: center;
+    margin-top: 150px;
+    letter-spacing: 0.25em;
+    font-weight: bold;
+    margin-left:33%;
+    margin-right:33%;
+    position: fixed;
+    border: 10px solid;
+    padding: 10px 20px 10px 20px;
+    
+
+
+}
+.alink{
+    color: #ffffff;
+    
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 25pt;
+    width: fit-content;
+    text-align: center;
+    margin-top: 320px;
+    letter-spacing: 0.25em;
+    font-weight: bold;
+    margin-left:33%;
+    margin-right:33%;
+    position: fixed;
+    
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*this is pie page*/
+.heading{
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 22pt;
+    width: fit-content;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 0.25em;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+   
+}
+.otherheading{
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 18pt;
+    text-decoration: underline;
+    letter-spacing: 0.25em;
+    width: fit-content;
+}
+.body{
+    color: #404040;
+    font-size: 11pt;
+    font-family:  Georgia, Garamond;
+}
+hr{
+    border: 1px solid;
+}
+.comment{
+    background-color: #FFFFA8;
+}
+.link{
+    color: #A4A400;
+}
+.ebody{
+    background-image: url(silverware.jpg);
+    background-attachment: fixed;
+}
+ul{
+    list-style-image: url(pie_bullet.png);
+}
+/*pie page and here*/
+
+
